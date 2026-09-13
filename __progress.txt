@@ -8,5 +8,5 @@
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-02T16:08:01.234Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	0/0	2026-09-02T16:35:16.838Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-02T16:46:18.659Z
-gh:michelzam/lightcodepedia/docs/_410/databases/module_02/01_hunt	2/2	0/0	2026-09-12T20:23:59.043Z
-crc 50da5290
+gh:michelzam/lightcodepedia/docs/_410/databases/module_02/01_hunt	2/2	0/0	2026-09-13T18:37:16.506Z
+crc 23feeed2
