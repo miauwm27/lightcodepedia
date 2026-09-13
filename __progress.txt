@@ -9,4 +9,5 @@ gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	202
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	0/0	2026-09-02T16:35:16.838Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-02T16:46:18.659Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_02/01_hunt	2/2	0/1	2026-09-13T18:45:43.373Z
-crc 6e381e1c
+gh:michelzam/lightcodepedia/docs/_410/databases/module_02/02_concepts	1/1	0/0	2026-09-13T19:43:01.462Z
+crc 4a337d9b
