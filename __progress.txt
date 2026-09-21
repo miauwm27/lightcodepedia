@@ -11,4 +11,5 @@ gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	
 gh:michelzam/lightcodepedia/docs/_410/databases/module_02/01_hunt	2/2	0/1	2026-09-13T18:45:43.373Z	miauwm27/lightcodepedia
 gh:michelzam/lightcodepedia/docs/_410/databases/module_02/02_concepts	2/2	0/0	2026-09-13T20:57:57.569Z	miauwm27/lightcodepedia
 gh:michelzam/lightcodepedia/docs/_410/databases/module_03/00_setup	1/1	0/0	2026-09-20T00:29:39.123Z	miauwm27/lightcodepedia
-crc c03d4b1f
+gh:michelzam/lightcodepedia/docs/_410/databases/module_03/01_moon_walk	2/2	0/0	2026-09-21T00:43:07.150Z	miauwm27/lightcodepedia
+crc bc2ee492
